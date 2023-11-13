@@ -28,9 +28,18 @@
 - The main screen will show the user if they want to add new card.
 - The investment screen will ask the user if they want to make new investment or add exsisting investment.
 - To summarize, I think the feature such as sending/receiving money, investing money, adding cards, and app suggesting offers to user will make this app successful.
+  
+  ## Overall Design
+    * The app will show the added cards on main screen making it the most eye catching component of the app. Just like the many apps available it makes user feel more comfortable using the app. [Investment-mobile-app](https://dribbble.com/shots/19686568-Investment-mobile-app)
+    * Main screen will display the transaction history below the cards. In my perspective it makes sense to display the transaction where the card is, because it creates the connection between card and transaction. [Banking-App](https://dribbble.com/shots/21113553-Banking-App)
+    * The app will display send and received money for each month.
+    * This app will consist of multiple screens, and different screens will be dedicated to perform various operation.
+    * I really like send money section in [Wallet-App-UI](https://dribbble.com/shots/17592495-Wallet-App-UI), because it makes easy for user to select the person or to add new person.
+    * User can pay bill by entering the ID number they are paying for.
+    * Innvestment screen will have a button which will ask the user to add their existing investment or make a new Stock investment through the app. I really like the way how they display the logo for the stock [Investment-mobile-app](https://dribbble.com/shots/19686568-Investment-mobile-app).
 
 ## Target User
-The target user for this app could be possibly someone who likes modern apps with design which is colorful and simplistic, and the user having in mind the features such as sending and receiving, and sometimes using other financial features.
+The target user for this app could be possibly someone who likes modern apps with design which is colorful and simplistic, and the user having in mind the features such as sending and receiving, and sometimes using other financial features. Teenage user would most frequently use the sending / receiving money, because they may not have any mortgage, they might have a Investment in stocks or TFSA so they might be interacting with that section. There can be user who would just use the app for investments.
 
 ## Features Overview
 - ### Adding Cards
@@ -46,4 +55,4 @@ The target user for this app could be possibly someone who likes modern apps wit
   - Investment Payments.
 - ### AI Suggestion
   - Spending suggestion for shopping, spending on various categories.
-  - Offering a new interest rate for the mortgage.
+  - Offering a rate for the new mortgage.

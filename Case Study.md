@@ -8,6 +8,7 @@
 - The way they have displayed investment is amazing because it shows a mini graph on the side to a particular investment, as well it allows allows the filtration.
 - I love the way they display on the top with quite resnable sized text about the available offers for the investment.
 - I really liked the color scheme because the texts are clearly visible it does'nt hide to background color.
+- Modern apps uses various navigation ways but bottom navigation is one of the popular one.
 
 ## Evaluation for [Banking-App](https://dribbble.com/shots/21113553-Banking-App)
 - I really liked the way they have displayed the card like UI on the screen which resembles the feel of Physical card.
@@ -20,34 +21,29 @@
 
 ## Plan
 - I will also be using ideas of the transaction section and send money UI from [Investment-mobile-app](https://dribbble.com/shots/19686568-Investment-mobile-app), [Banking-App](https://dribbble.com/shots/21113553-Banking-App)
-- Will display transaction as listview which will have the name for the transaction, amount deducted/deposited.
+- Will display transaction below the cards as listview which will have the name for the transaction, amount deducted/deposited for the previous **3 or 4** transaction.
 - Investment will display the stocks in listview where it will show the name of the stock, amount invested, the change in the market value, and the change in the percent in past 24 hours.
 - There will also be a UI layout for displaying the recent people in send money, for convenient selection.
+- The first page will ask the user to login.
+- The main screen will show the user if they want to add new card.
+- The investment screen will ask the user if they want to make new investment or add exsisting investment.
 - To summarize, I think the feature such as sending/receiving money, investing money, adding cards, and app suggesting offers to user will make this app successful.
 
-I won't be counting words, but your written piece should be around 2 - 3 pages.
+## Target User
+The target user for this app could be possibly someone who likes modern apps with design which is colorful and simplistic, and the user having in mind the features such as sending and receiving, and sometimes using other financial features.
 
-## Some things to bear in mind
-
-- Prefer objective fact over opinion.
-- Make sure you are always focused on the user! How easily can the user accomplish the various tasks and objectives? What might users not understand, and how can you help them?
-- Avoid overly general or subjective statements. Don't write that "the app is minimal", explain how "there is a clear focus on each page guiding the user". Don't write that "I like the investments page", write that "the investments page is clearly laid out, with only relevant data presented to the user".
-- Use bullet points in addition to written paragraphs where appropriate.
-- Consider the types of data the app will display - Do you know enough about them to build your wireframes? 
-- Remember - the case study sets you up for success when you build out the wireframes. Think about the notes, data and ideas that will help you in the following phases!
-
-## Evaluation
-
-The rubric for the case study is as follows:
-
-- **Depth/quality of research**
-  - Student has collected valuable data that will help them as they build out the wireframes.
-    
-- **Understanding of the topic**
-  - Student understands the UI/UX subject matter, and has applied knowledge learned in class.
-    
-- **Critical analysis**
-  - Student evaluates the design, UI and UX with clear goals in mind.
-    
-- **Presentation**
-  - The case study is well written and well presented.
+## Features Overview
+- ### Adding Cards
+  - Credit Cards.
+  - Debit Cards.
+- ### Adding Investment
+  - New Investment to Stocks, TFSA.
+  - Existing Invement Stocks, TFSA.
+- ### Transaction
+  - Sending Money.
+  - Receiving Money.
+  - Mortgage Payments.
+  - Investment Payments.
+- ### AI Suggestion
+  - Spending suggestion for shopping, spending on various categories.
+  - Offering a new interest rate for the mortgage.
